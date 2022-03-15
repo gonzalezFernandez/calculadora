@@ -1,6 +1,6 @@
 # Calculadora
 
-![image](https://user-images.githubusercontent.com/100344855/158343013-50ee71eb-46e5-430e-8041-38a271ccb08f.png)
+![image](https://user-images.githubusercontent.com/100344855/158345989-b6a964dd-671e-4373-b928-7d370c1fa4b7.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
 
