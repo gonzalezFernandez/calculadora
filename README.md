@@ -3,6 +3,8 @@ https://awesome-montalcini-a1db6d.netlify.app/
 
 ![image](https://user-images.githubusercontent.com/100344855/158261462-bd8b077b-90f7-4455-b28e-eabf4e1533f7.png)
 
+![image](https://user-images.githubusercontent.com/100344855/158325953-a3a9b593-2c4c-482d-8998-06cbcdf47dc3.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
 
 ## Development server
