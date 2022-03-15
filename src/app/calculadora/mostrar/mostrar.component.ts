@@ -14,10 +14,5 @@ export class MostrarComponent {
 
   constructor(public servicio:CalculadoraService){}
 
-  public limpiaResultado():void{
-    this.resultado = 0;
-    console.log("ada");
-
-  }
 
 }

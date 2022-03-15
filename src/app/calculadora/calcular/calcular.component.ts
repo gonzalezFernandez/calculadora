@@ -8,8 +8,8 @@ import { CalculadoraService } from '../services/calculadora.service';
 })
 export class CalcularComponent {
 
-  @Input() valor1:number = 0;
-  @Input() valor2:number = 0;
+  @Input() valor1:number = NaN;
+  @Input() valor2:number = NaN;
 
 
   constructor(private servicio:CalculadoraService){ }
@@ -36,8 +36,10 @@ export class CalcularComponent {
 
     public Limpiar():void
     {
-      this.valor1 = 0;
-      this.valor2 = 0;
+      this.valor1 = NaN;
+      this.valor2 = NaN;
+
+      this.servicio.resultado = 0;
 
     }
 
